@@ -77,6 +77,7 @@ MICHAL!
 - [contribution](https://github.com/MSAKWA-officer)
 - [Aswal krishna](https://github.com/aswalkriz)
 - [Raghav Bandreddi](https://github.com/RaGHaV-186)
+- Simasa
 - [Amalraj MP](https://github.com/AmalRajMP)
 - [Philip S] (https://github.com/PhilipPanda) 
 - [Mounika Yerramsetti] (https://github.com/MounikaYerramsetti26)
